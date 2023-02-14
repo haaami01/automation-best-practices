@@ -43,7 +43,7 @@
   "devDependencies": {
     "@wdio/local-runner": "^7.13.0",
     "@wdio/mocha-framework": "^7.13.0",
-    "@wdio/sauce-service": "^7.13.0",
+    "@wdio/sauce-service": "^7.30.1",
     "@wdio/spec-reporter": "^7.13.0",
     "@wdio/sync": "^7.13.0",
     "chromedriver": "^93.0.1",
